@@ -14,7 +14,7 @@ function App() {
 
   return (
     <>
-      <FilterableProductTable product={PRODUCTS}/>
+      <FilterableProductTable products={PRODUCTS}/>
     </>
   )
 }
